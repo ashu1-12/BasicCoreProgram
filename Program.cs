@@ -8,10 +8,14 @@
             //int time = Convert.ToInt32(Console.ReadLine());
             //flipCoin(time);
 
-            Console.WriteLine("Enter the year");
-            int year = Convert.ToInt32(Console.ReadLine());
-            LeapYear leapYear = new LeapYear();
-            Console.WriteLine(year + " Is Leap Year " + leapYear.IsLeapYear(year));
+            //Console.WriteLine("Enter the year");
+            //int year = Convert.ToInt32(Console.ReadLine());
+            //LeapYear leapYear = new LeapYear();
+            //Console.WriteLine(year + " Is Leap Year " + leapYear.IsLeapYear(year));
+
+            Console.WriteLine("Enter the number");
+            int n = Convert.ToInt32(Console.ReadLine());
+            PowerOf_2 powerOf_2 = new PowerOf_2(n);
         }
 
         private static void flipCoin(int time)
