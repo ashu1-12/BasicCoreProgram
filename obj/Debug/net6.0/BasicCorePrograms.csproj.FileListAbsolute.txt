@@ -1,0 +1,14 @@
+C:\BridgeLabz\C#Projects\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.exe
+C:\BridgeLabz\C#Projects\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.deps.json
+C:\BridgeLabz\C#Projects\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.runtimeconfig.json
+C:\BridgeLabz\C#Projects\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.dll
+C:\BridgeLabz\C#Projects\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.pdb
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfoInputs.cache
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfo.cs
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.dll
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\refint\BasicCorePrograms.dll
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.pdb
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.genruntimeconfig.cache
+C:\BridgeLabz\C#Projects\BasicCorePrograms\obj\Debug\net6.0\ref\BasicCorePrograms.dll
