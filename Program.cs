@@ -4,9 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of times to flip coin");
-            int time = Convert.ToInt32(Console.ReadLine());
-            flipCoin(time);
+            //Console.WriteLine("Enter the number of times to flip coin");
+            //int time = Convert.ToInt32(Console.ReadLine());
+            //flipCoin(time);
+
+            Console.WriteLine("Enter the year");
+            int year = Convert.ToInt32(Console.ReadLine());
+            LeapYear leapYear = new LeapYear();
+            Console.WriteLine(year + " Is Leap Year " + leapYear.IsLeapYear(year));
         }
 
         private static void flipCoin(int time)
